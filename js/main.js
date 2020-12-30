@@ -80,7 +80,7 @@ $(document).ready(function() {
   $(function() {
     typed.typed({
       // strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
-      strings: ["Hello, I'm Rahul Golhar."],
+      strings: ["Hello, I'm Shreyas Gadekar."],
       typeSpeed: 100,
       loop: true,
     });
